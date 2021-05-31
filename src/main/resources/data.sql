@@ -1,0 +1,10 @@
+INSERT INTO tb_doctor (name, specialty, cpf, crm, income, birth_Date, created_At) VALUES ('Dr. Pedro Cardoso', 'Pediatra', '111.886.598-99', 049565, 8500.0, '1990-07-25', NOW());
+INSERT INTO tb_doctor (name, specialty, cpf, crm, income, birth_Date, created_At) VALUES ('Dr. Tony Stark', 'Traumatologista', '518.921.598-99', 049666, 18500.0, '1985-09-10', NOW());
+INSERT INTO tb_doctor (name, specialty, cpf, crm, income, birth_Date, created_At) VALUES ('Dr. Stone', 'Cardiologista', '921.550.125-10', 049879, 5500.0, '1970-02-27', NOW());
+INSERT INTO tb_doctor (name, specialty, cpf, crm, income, birth_Date, created_At) VALUES ('Dr. Strange', 'Neuro-Cirurgião', '321.886.598-99', 049999, 28500.0, '1985-03-15', NOW());
+INSERT INTO tb_doctor (name, specialty, cpf, crm, income, birth_Date, created_At) VALUES ('Dr. Who', 'Pediatra', '333.886.598-99', 049565, 8900.0, '1990-07-25', NOW());
+INSERT INTO tb_doctor (name, specialty, cpf, crm, income, birth_Date, created_At) VALUES ('Dr. Thiago Costa', 'Ginecologista', '456.886.598-99', 049333, 28500.0, '1992-02-27', NOW());
+INSERT INTO tb_doctor (name, specialty, cpf, crm, income, birth_Date, created_At) VALUES ('Dra. Adriana Valverde', 'Pneumologista', '111.886.598-99', 049565, 8500.0, '1989-07-25', NOW());
+INSERT INTO tb_doctor (name, specialty, cpf, crm, income, birth_Date, created_At) VALUES ('Dr. Loki', 'Pediatra', '454.898.720-99', 049123, 38500.0, '1965-07-25', NOW());
+INSERT INTO tb_doctor (name, specialty, cpf, crm, income, birth_Date, created_At) VALUES ('Dr. Thor', 'Reumatologista', '324.886.598-99', 044444, 3500.0, '1964-09-10', NOW());
+INSERT INTO tb_doctor (name, specialty, cpf, crm, income, birth_Date, created_At) VALUES ('Dr. Zeus', 'Cardiologista', '365.886.598-99', 049521, 19500.0, '1993-06-25', NOW());
